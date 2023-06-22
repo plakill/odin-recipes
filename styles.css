@@ -6,6 +6,11 @@
     text-align: center;
 }
 
+img {
+    width: 750;
+    height: auto;
+}
+
 li {
     text-align: left;
 }
