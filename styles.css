@@ -1,4 +1,11 @@
 * {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.intro {
     text-align: center;
+}
+
+li {
+    text-align: left;
 }
