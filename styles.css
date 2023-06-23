@@ -33,10 +33,10 @@ li {
 }
 
 .navigation li {
-    padding-right: 60px;
+    margin-right: 60px;
     display: inline;
 }
 
 .home-link {
-    padding-bottom: 0;
+    margin-bottom: 0;
 }
