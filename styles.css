@@ -2,6 +2,12 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body {
+    background-image: url("images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .intro {
     text-align: center;
 }
