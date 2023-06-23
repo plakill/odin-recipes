@@ -26,7 +26,15 @@ a {
 
 li {
     text-align: left;
-    padding-bottom: 5px;
+}
+
+.navigation {
+    text-align: center;
+}
+
+.navigation li {
+    padding-right: 60px;
+    display: inline;
 }
 
 .home-link {
