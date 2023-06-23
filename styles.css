@@ -17,6 +17,18 @@ img {
     height: auto;
 }
 
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: inherit;
+}
+
 li {
     text-align: left;
+    padding-bottom: 5px;
+}
+
+.home-link {
+    padding-bottom: 0;
 }
