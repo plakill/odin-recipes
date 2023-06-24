@@ -34,7 +34,7 @@ li {
 
 .navigation li {
     margin-right: 60px;
-    display: inline;
+    display: inline-block;
 }
 
 a:hover {
