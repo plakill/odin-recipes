@@ -2,6 +2,10 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+html, body {
+    height: 100%;
+}
+
 body {
     background-image: url("images/background.jpg");
     background-repeat: no-repeat;
@@ -42,6 +46,17 @@ a:hover {
     border: 2px solid purple;
 }
 
-.home-link {
+
+.how-and-home {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.how-and-home h3{
     margin-bottom: 0;
+}
+
+.home-link {
+    font-size: 20px;
 }
